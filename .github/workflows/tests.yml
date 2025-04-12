@@ -3,7 +3,7 @@ name: Test Python App
 on:
   push:
     branches:
-      - '**'  # Рабочий процесс будет запускаться при любом пуше
+      - '**'
 
 jobs:
   ci:
